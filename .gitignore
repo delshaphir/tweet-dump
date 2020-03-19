@@ -1,2 +1,4 @@
 secret_stuff.py
+.env
+__pycache__/
 
