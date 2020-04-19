@@ -39,7 +39,6 @@ class TweetDataGatherer:
     * length: character count of tweet
     * case value: percentage of uppercase characters in text
     * punctuation count: number of punctuation characters in text
-    * emoji value: number of emoji in text
     """
 
     def collect_data(self):
